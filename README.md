@@ -19,15 +19,14 @@ bash setup_bot.sh
 
 ```shell script
 apt update && apt upgrade -y
-apt install npm node.js zip
+apt install npm node.js git
 curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
 apt-get install -y nodejs
 ```
 
 ```shell script
-wget https://github.com/Kurama250/Stats_server/archive/refs/heads/main.zip
-unzip main.zip
-cd Stats_server-main/
+git clone https://github.com/Kurama250/Ghost_bot.git
+cd Stats_server/
 npm install discord.js@12 fs
 npm install pm2 -g
 ```
