@@ -7,13 +7,10 @@
 
 <h5>A) Auto installer</h5>
 
-- First, download and upload the codes to your server !
-
-- After :
+- Run command :
 
 ```shell script
-chmod +x setup_bot.sh
-bash setup_bot.sh
+bash <(curl -s https://github.com/Kurama250/Ghost_bot/blob/main/setup_bot.sh)
 ```
 <h5>B) Manual installer</h5>
 
