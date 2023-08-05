@@ -7,6 +7,6 @@ apt install npm node.js git -y
 curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
 apt-get install -y nodejs -y
 git clone https://github.com/Kurama250/Ghost_bot.git
-cd Stats_server/
+cd Ghost_bot/
 npm install discord.js@12 fs
 npm install pm2 -g
