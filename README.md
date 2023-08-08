@@ -10,7 +10,7 @@
 - Run command :
 
 ```shell script
-bash <(curl -s https://github.com/Kurama250/Ghost_bot/blob/main/setup_bot.sh)
+bash <(curl -s https://raw.githubusercontent.com/Kurama250/Ghost_bot/main/setup_bot.sh)
 ```
 <h5>B) Manual installer</h5>
 
