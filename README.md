@@ -12,6 +12,7 @@
 ```shell script
 bash <(curl -s https://raw.githubusercontent.com/Kurama250/Ghost_bot/main/setup_bot.sh)
 ```
+
 <h5>B) Manual installer</h5>
 
 ```shell script
