@@ -1,4 +1,4 @@
-// Cerate by Kurama
+// Create by Kurama
 // Github : https://github.com/Kurama250
 
 const fs = require('fs');
