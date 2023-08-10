@@ -28,6 +28,7 @@ cd Stats_server/
 npm install discord.js@12 fs
 npm install pm2 -g
 ```
+
 ## 2 - on Terminal
 
 ```shell script
