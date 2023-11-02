@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/Kurama250/Ghost_bot/main/setup_
 
 ```shell script
 apt update && apt upgrade -y
-apt install npm node.js git
+apt install npm nodejs git
 curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
 apt-get install -y nodejs
 ```
