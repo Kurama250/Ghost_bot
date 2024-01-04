@@ -12,5 +12,5 @@ else
 fi
 git clone https://github.com/Kurama250/Ghost_bot.git
 cd Ghost_bot/
-npm install discord.js@12 fs
+npm install discord.js@13 fs
 npm install pm2 -g
