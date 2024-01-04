@@ -25,14 +25,14 @@ bash <(curl -s https://raw.githubusercontent.com/Kurama250/Ghost_bot/main/setup_
 ```shell script
 apt update && apt upgrade -y
 apt install npm nodejs git
-curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
+curl -fsSL https://deb.nodesource.com/setup_20.x | bash - &&\
 apt-get install -y nodejs
 ```
 
 ```shell script
 git clone https://github.com/Kurama250/Ghost_bot.git
 cd Ghost_bot/
-npm install discord.js@12 fs
+npm install discord.js@13 fs
 npm install pm2 -g
 ```
 
